@@ -1,0 +1,6 @@
+project:
+  name: duckdb-demo
+webserver:
+  port: 3434
+postgres:
+  port: 5439

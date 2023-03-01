@@ -1,0 +1,1 @@
+astro-sdk-python[duckdb,postgres]==1.5.2
